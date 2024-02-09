@@ -1,6 +1,8 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### Example user template
 /extras/QandA.md
+/extras/inicio/*
+/extras/mensajes y errores/*
 
 # IntelliJ project files
 .idea
